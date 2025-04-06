@@ -5,7 +5,7 @@ This project performs simple arithmetic operations like addition, subtraction, m
 
 ## Features
 - User-Freindly interface
-- Handles basic arihthmetic oprations
+- Handles basic arihthmetic operations
 - Responsive design
 
 ## Tech used
