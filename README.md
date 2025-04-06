@@ -12,3 +12,6 @@ This project performs simple arithmetic operations like addition, subtraction, m
 - HTML
 - CSS
 - JavaScript
+
+## Author
+Tuhin Adhikari
