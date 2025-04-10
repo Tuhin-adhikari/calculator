@@ -1,7 +1,8 @@
-let icons = document.querySelectorAll(".icons");
-let infix = document.querySelector(".infix");
-let result = document.querySelector(".result");
+let icons = document.querySelectorAll(".icons");    //Getting all the buttons with numbers and operatos
+let infix = document.querySelector(".infix");    //the text content to be displayed to the user
+let result = document.querySelector(".result");    //Result
 
+//Clicking numbers or operators
 icons.forEach((icon) => {
     icon.addEventListener("click", () => {
         let value = icon.textContent.trim();
